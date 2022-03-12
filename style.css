@@ -4,7 +4,7 @@ body {background-color: darksalmon;}
 background-size:cover;
 background-attachment: fixed;}
 
-img {width:50%;
+img {width:300px;
 height:auto;
 /*Display + margin properties are both needed to center the img*/
 display:block;
